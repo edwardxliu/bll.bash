@@ -1,5 +1,5 @@
 # bll.bash
-This is a fun Linux Bash script to view the size of files in a path and do some simple file operation.
+This is a fun Linux Bash script to view the size of files in a path and do some simple file operation in the terminal.
 
 1.  You can do something like "bll -k" to list all files with size of kilobytes under current path or "bll -m" to list with megabytes.
 2.  You can also specify the path like "bll /usr/local -b" or "bll ../ -g".
